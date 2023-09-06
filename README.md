@@ -12,7 +12,7 @@
 - Each level will have a set of enemies with differen intelligent, finding path and speed.
 
 ## Project wiki and development state
-- All our development state and game wiki can found here at this [Notion Page](https://www.notion.so/romcomsuki/JavaFX-Game-1b8d01fc93204446ac50e7668d3682a6):
+- All our development state and game wiki can found here at this [Notion Page](https://romcomsuki.notion.site/JavaFX-Game-1b8d01fc93204446ac50e7668d3682a6):
 1. Game development process
 2. Each team member task
 3. Enemies's wiki (points, speed, finding path, intelligent)
